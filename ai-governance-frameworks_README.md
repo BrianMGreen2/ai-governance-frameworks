@@ -31,7 +31,7 @@ This repo complements other efforts on:
 
 ## 📄 License
 
-Feel free to reuse or adapt with attribution under the MIT License.
+Feel free to reuse or adapt with attribution under the Creative Commons Attribution 4.0.
 
 ---
 
