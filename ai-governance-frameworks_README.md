@@ -26,8 +26,8 @@ To provide practical, explainable, and auditable frameworks that help organizati
 ## 🔗 Related Work
 
 This repo complements other efforts on:
-- [AI Readiness Assessment](https://github.com/YOUR-USERNAME/ai-readiness-assessment)
-- [Red-Teaming Bias Rubric](https://github.com/YOUR-USERNAME/red-teaming-bias-eval-rubric)
+- [AI Readiness Assessment](https://github.com/BrianMGreen2/ai-readiness-assessment)
+- [Red-Teaming Bias Rubric](https://github.com/BrianMGreen2/red-teaming-bias-eval-rubric)
 
 ## 📄 License
 
