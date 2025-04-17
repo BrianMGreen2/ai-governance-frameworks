@@ -35,4 +35,4 @@ Feel free to reuse or adapt with attribution under the MIT License.
 
 ---
 
-Created and maintained by [Brian M. Green](https://www.linkedin.com/in/bgreen2) | [Health-Vision.AI,LLC](https://health-vision.ai/]
+Created and maintained by [Brian M. Green](https://www.linkedin.com/in/bgreen2) | [Health-VisionAI,LLC](https://health-vision.ai/)
